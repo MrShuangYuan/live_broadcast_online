@@ -14,7 +14,12 @@ public class MainActivity extends AppCompatActivity{
     }
     /**配置方法*/
     private void initConfig() {
-
+        if (1 == 1) {
+            int a = 0;
+        } else {
+            int b = 1;
+        }
+        // 加了个注释。。。。。
     }
 
 
